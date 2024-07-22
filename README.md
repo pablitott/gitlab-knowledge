@@ -51,7 +51,7 @@ aws lightsail start-instance      --instance-name "Ubuntu-2" | jq '.[][0].status
 - op plugin glab
   prompts for the token to authenticate with gitlab
 
-
+must test this code
 
 ---
 #### Connect to 1password
